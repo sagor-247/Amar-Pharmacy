@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width:100%;
+    margin: auto;
+}
+.Sagor h1 {
+    text-align: center;
+    color: black;
+}
+.Sagor p {
+    font-size: 14px;
+    text-align: center;
+}
+.col-sm-3 {
+    font-size: 14px;
+    margin: 0;
+    padding-right: 5px;
+}
+col-sm-3 p,a {
+    color: #F4DEB1;
+}
+.footer-area {
+    padding: 20px 20px;
+    background:#F4F4F4;
+        overflow: hidden;
+    display: block;
+}
+.copy {
+    font-size: 14px;
+    color: #F4DEB1;
+    overflow: hidden;
+}
+.middle p,a {
+    color: black   
+}
+.photo .col-sm-3:hover {
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 120px;
+    background: #F4DEB1;
+}
+.photo :hover {
+    border: 1px dolid #777;
+}
+.photo img {
+    width: 100%;
+    height: auto;
+}
+
+.photo p {
+    width: 100%;
+    height: auto;
+    color:
+}
